@@ -1,0 +1,1 @@
+Document generation requires python-docx and reportlab. Install requirements.txt, then run main.py again. Original error: No module named 'docx'

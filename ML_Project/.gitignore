@@ -1,0 +1,9 @@
+.deps/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Keep generated project outputs available locally, but ignore accidental rerun clutter.
+outputs/**/*.tmp
+outputs/**/*.log
