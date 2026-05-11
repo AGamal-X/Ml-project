@@ -122,6 +122,4 @@ After running the project, open:
 - `docs/Project_Description.docx`
 - `docs/Project_Description.pdf`
 
-## Presentation Notes
 
-For discussion, explain that Linear Regression is a supervised regression baseline, KNN Regressor is a distance-based regression model, Logistic Regression is a supervised image classifier using extracted features, and KMeans is unsupervised but converted into a classifier by majority voting from clusters to labels.
